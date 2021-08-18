@@ -1,6 +1,6 @@
 ### Open Source Contributions @HuggingFace
 
-You can find all my open source contributions to 🤗 libraries [here](https://github.com/huggingface/transformers/commits?author=vasudevgupta7). Below table summarizes some of my big contributions:
+Following links to my open source contributions @🤗's libraries: [Transformers](https://github.com/huggingface/transformers/commits?author=vasudevgupta7), [Datasets](https://github.com/huggingface/datasets/commits?author=vasudevgupta7), [Accelerate](https://github.com/huggingface/accelerate/commits?author=vasudevgupta7), [Hub](https://github.com/huggingface/huggingface_hub/commits?author=vasudevgupta7). Below table summarizes some of my big contributions:
 
 | Description                                                                | Link                                                                |
 |----------------------------------------------------------------------------|---------------------------------------------------------------------|
