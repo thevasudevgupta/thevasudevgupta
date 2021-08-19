@@ -11,6 +11,8 @@ Following links to my open source contributions @🤗's libraries: [Transformers
 | Integrated `Microsoft's DeepSpeed` with HuggingFace Accelerate             | [PR #82](https://github.com/huggingface/accelerate/pull/82)         |
 | Added `ModelHubMixin` in HuggingFace Hub                                   | [PR #9](https://github.com/huggingface/huggingface_hub/pull/11)     |
 
+I also wrote a blog post on **BigBird block sparse attention**. It's available in 🤗blog ([here is the link](https://huggingface.co/blog/big-bird)).
+
 ### Google Summer of Code @TensorFlow
 
 You can find my final report [here](https://vasudevgupta7.github.io/gsoc-wav2vec2/assets/final_report). Below table is just the overview of my work:
