@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **7vasudevgupta@gmail.com**
 
-- Find more about me here: **https://vasudevgupta7.github.io/**
+- 🔗 How to find more about me **https://vasudevgupta7.github.io/**
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasudevgupta7&layout=compact&hide=html" alt="vasudevgupta7" /></p>
 
