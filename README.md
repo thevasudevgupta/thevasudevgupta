@@ -1,16 +1,36 @@
 <h1 align="center">👋, I'm Vasudev Gupta</h1>
-<h3 align="center"><a href=https://www.linkedin.com/in/vasudevgupta7>LinkedIn</a>, <a href=https://twitter.com/7vasudevgupta>Twitter</a>, <a href=https://github.com/vasudevgupta7>GitHub</a></h3>
 
-- 🔭 I’m currently working with speech & text
+<h2 align="center">
+  <a href="https://twitter.com/7vasudevgupta" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vasudevgupta7/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</h2>
 
-- 🌱 I’m currently reading about ML compilers
+🔗 Personal webpage: **https://vasudevgupta7.github.io/**
 
-- 💬 Ask me about **Hugging Face, Tensorflow, PyTorch, Jax/Flax, NLP, Speech libraries**
+## Research Interests
 
-- 📫 How to reach me **7vasudevgupta@gmail.com**
+* Everything in NLP & Speech
 
-- 🔗 How to find more about me **https://vasudevgupta7.github.io/**
+## ML Modeling & Training
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasudevgupta7&layout=compact&hide=html" alt="vasudevgupta7" /></p>
+* HuggingFace Transformers
+* PyTorch, TensorFlow, Flax
+* Weights & Biases
+* HuggingFace Accelerate, DeepSpeed
+
+## ML Deployment
+
+* ONNX, TorchScript, TFSavedModel
+* Streamlit, Gradio, Flask
+* Docker
+
+## Languages
+
+* Python
+* C++
+* Rust
+
+<!-- <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasudevgupta7&layout=compact&hide=html" alt="vasudevgupta7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasudevgupta7&show_icons=true" alt="vasudevgupta7" /></p>
+ -->
