@@ -11,6 +11,12 @@
 
 * Everything in NLP & Speech
 
+## Languages
+
+* Python
+* C++
+* Rust
+
 ## ML Modeling & Training
 
 * HuggingFace Transformers
@@ -24,11 +30,10 @@
 * Streamlit, Gradio, Flask
 * Docker
 
-## Languages
+## ML Versioning
 
-* Python
-* C++
-* Rust
+* Git/GitHub
+* HuggingFace Hub
 
 <!-- <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasudevgupta7&layout=compact&hide=html" alt="vasudevgupta7" /></p>
 
