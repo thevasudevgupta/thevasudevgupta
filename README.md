@@ -7,33 +7,14 @@
 
 🔗 Personal webpage: **https://vasudevgupta7.github.io/**
 
-## Research Interests
-
-* Everything in NLP & Speech
-
-## Languages
-
-* Python
-* C++
-* Rust
-
-## ML Modeling & Training
-
-* HuggingFace Transformers
-* PyTorch, TensorFlow, Flax
-* Weights & Biases
-* HuggingFace Accelerate, DeepSpeed
-
-## ML Deployment
-
-* ONNX, TorchScript, TFSavedModel
-* Streamlit, Gradio, Flask
-* Docker
-
-## ML Versioning
-
-* Git/GitHub
-* HuggingFace Hub
+|                            |                                                                                      |
+|----------------------------|--------------------------------------------------------------------------------------|
+| **Current Interests**      | Everything in NLP & Speech                                                           |
+| **Languages**              | Python, C++, Rust                                                                    |
+| **Modeling & Training**    | 🤗Transformers, PyTorch, TensorFlow, Flax, Weights & Biases, 🤗Accelerate, DeepSpeed |
+| **Training platforms**     | Cloud TPUs, AzureML/SSH/AWS GPU instances                                            |
+| **Deployment**             | ONNX, TorchScript, TFSavedModel, Streamlit, Gradio, Flask, Docker                    |
+| **Versioning**             | Git/GitHub, 🤗Hub                                                                    |
 
 <!-- <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasudevgupta7&layout=compact&hide=html" alt="vasudevgupta7" /></p>
 
