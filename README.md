@@ -12,7 +12,7 @@
 | **Current Interests**      | Everything in NLP & Speech                                                           |
 | **Languages**              | Python, C++, Rust                                                                    |
 | **Modeling & Training**    | 🤗Transformers, PyTorch, TensorFlow, Flax, Weights & Biases, 🤗Accelerate, DeepSpeed |
-| **Training platforms**     | Cloud TPUs, AzureML/SSH/AWS GPU instances                                            |
+| **Training platforms**     | Cloud TPUs, AzureML/AWS GPU instances                                                |
 | **Deployment**             | ONNX, TorchScript, TFSavedModel, Streamlit, Gradio, Flask, Docker                    |
 | **Versioning**             | Git/GitHub, 🤗Hub                                                                    |
 
