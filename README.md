@@ -1,4 +1,4 @@
-<h1 align="center">👋, I'm Vasudev Gupta (a ML guy)</h1>
+<h1 align="center">👋, I'm Vasudev Gupta</h1>
 
 <h2 align="center">
   <a href="https://twitter.com/7vasudevgupta" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
