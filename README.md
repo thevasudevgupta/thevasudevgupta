@@ -9,10 +9,10 @@
 
 |                            |                                                                                      |
 |----------------------------|--------------------------------------------------------------------------------------|
-| **Current Interests**      | Everything in NLP & Speech                                                           |
-| **Languages**              | Python, C++, Rust                                                                    |
-| **Modeling & Training**    | 🤗Transformers, PyTorch, TensorFlow, Flax, Weights & Biases, 🤗Accelerate, DeepSpeed |
-| **Training platforms**     | Cloud TPUs, AzureML/AWS GPU instances                                                |
+| **Current Interests**      | ML systems, NLP & Speech                                                             |
+| **Languages**              | Python, Rust, C++, CUDA                                                              |
+| **Modeling & Training**    | 🤗Transformers, PyTorch, TensorFlow, Flax, Weights & Biases, 🤗Accelerate, DeepSpeed  |
+| **Training platforms**     | Google Cloud TPUs, AzureML, AWS instances                                            |
 | **Deployment**             | ONNX, TorchScript, TFSavedModel, Streamlit, Gradio, Flask, Docker                    |
 | **Versioning**             | Git/GitHub, 🤗Hub                                                                    |
 
