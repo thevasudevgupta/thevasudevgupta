@@ -4,9 +4,9 @@ on:
 jobs:
   cool_1:
     name: cool__1
-    runs_on: ubuntu-latest
+    runs-on: ubuntu-latest
     env:
       MY_NAME: ${{ secrets.MY_NAME }}
     steps:
-      - name: print name:
+      - name: print name-
         run: echo $MY_NAME
