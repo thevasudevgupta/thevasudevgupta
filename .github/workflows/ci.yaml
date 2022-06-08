@@ -8,4 +8,5 @@ jobs:
     env:
       MY_NAME: ${{ secrets.MY_NAME }}
     steps:
-      echo $MY_NAME
+      - name: print name:
+        run: echo $MY_NAME
