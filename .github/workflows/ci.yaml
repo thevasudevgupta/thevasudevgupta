@@ -1,0 +1,11 @@
+on:
+  workflow_dispatch
+  
+jobs:
+  cool_1:
+    name: cool__1
+    runs_on: ubuntu-latest
+    env:
+      MY_NAME: ${{ secrets.MY_NAME }}
+    steps:
+      echo $MY_NAME
