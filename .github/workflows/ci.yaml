@@ -9,4 +9,5 @@ jobs:
       MY_NAME: ${{ secrets.MY_NAME }}
     steps:
       - name: print name-
-        run: echo $MY_NAME
+        run: |
+          echo $MY_NAME
