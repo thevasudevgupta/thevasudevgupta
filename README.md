@@ -1,1 +1,1 @@
-🔗 Personal webpage: **https://thevasudevgupta.github.io/**
+🔗 Personal webpage: **https://thevasudevgupta.com/**
