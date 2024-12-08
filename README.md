@@ -19,9 +19,10 @@ Here is the collection of my open-source work:
 * [Understanding BigBird's Block Sparse Attention](https://huggingface.co/blog/big-bird)
 * [BioBigBird: Leveraging Entire Articles for Biomedical Language Understanding](https://sites.google.com/view/rbcdsairesearchshowcases2023/posters?authuser=0#h.4hipndcyi2vz)
 
-**Talks:**
+**Talks/Lectures:**
 * [BigBird: Transformers on long sequences](https://www.youtube.com/watch?v=G22vNvHmHQ0)
 * [Deep Dive into Pre-trained Transformers](https://drive.google.com/file/d/1zUq_decKNqaDkdW6_xZ0lDubo3GNEyij)
+* [CUDA Concepts YouTube Series](https://www.youtube.com/playlist?list=PL3xCBlatwrsWQP9ZeCwpmxgHx6BaqXQ1a)
 
 **Tutorials:**
 * [`Flax BigBird` evaluation on natural-questions dataset](https://colab.research.google.com/github/vasudevgupta7/bigbird/blob/main/notebooks/evaluate-flax-natural-questions.ipynb)
