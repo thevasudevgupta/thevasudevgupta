@@ -14,7 +14,7 @@ Here is the collection of my open-source work:
 * [Added notebook for demonstrating Wav2Vec2 fine-tuning to TFHub](https://github.com/tensorflow/hub/pull/788)
 * [Implemented & trained Wav2Vec2 model in TensorFlow](https://github.com/thevasudevgupta/gsoc-wav2vec2/commits?author=thevasudevgupta)
 
-**Blogs/Posters:**
+**Publications/Blogs/Posters:**
 * [Optimizing adapters for NMT](https://medium.com/offnote-labs/build-a-model-which-can-translate-multiple-indian-languages-to-english-very-efficiently-reduce-55375fb0e1ea)
 * [Understanding BigBird's Block Sparse Attention](https://huggingface.co/blog/big-bird)
 * [BioBigBird: Leveraging Entire Articles for Biomedical Language Understanding](https://sites.google.com/view/rbcdsairesearchshowcases2023/posters?authuser=0#h.4hipndcyi2vz)
