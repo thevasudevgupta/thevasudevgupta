@@ -1,5 +1,10 @@
 Here is the collection of my open-source work:
 
+**Publications/Blogs/Posters:**
+* [Understanding BigBird's Block Sparse Attention](https://huggingface.co/blog/big-bird)
+* [Optimizing adapters for NMT](https://medium.com/offnote-labs/build-a-model-which-can-translate-multiple-indian-languages-to-english-very-efficiently-reduce-55375fb0e1ea)
+* [BioBigBird: Leveraging Entire Articles for Biomedical Language Understanding](https://sites.google.com/view/rbcdsairesearchshowcases2023/posters?authuser=0#h.4hipndcyi2vz)
+
 **Open Source Contributions to HuggingFace:**
 * [Added PyTorch `BigBird-Pegasus` to Transformers](https://github.com/huggingface/transformers/pull/10991)
 * [Added PyTorch `BigBird-RoBERTa` to Transformers](https://github.com/huggingface/transformers/pull/10183)
@@ -13,11 +18,6 @@ Here is the collection of my open-source work:
 * [Exported pre-trained Wav2Vec2 model to TFHub](https://github.com/tensorflow/tfhub.dev/pull/65)
 * [Added notebook for demonstrating Wav2Vec2 fine-tuning to TFHub](https://github.com/tensorflow/hub/pull/788)
 * [Implemented & trained Wav2Vec2 model in TensorFlow](https://github.com/thevasudevgupta/gsoc-wav2vec2/commits?author=thevasudevgupta)
-
-**Publications/Blogs/Posters:**
-* [Optimizing adapters for NMT](https://medium.com/offnote-labs/build-a-model-which-can-translate-multiple-indian-languages-to-english-very-efficiently-reduce-55375fb0e1ea)
-* [Understanding BigBird's Block Sparse Attention](https://huggingface.co/blog/big-bird)
-* [BioBigBird: Leveraging Entire Articles for Biomedical Language Understanding](https://sites.google.com/view/rbcdsairesearchshowcases2023/posters?authuser=0#h.4hipndcyi2vz)
 
 **Talks/Lectures:**
 * [BigBird: Transformers on long sequences](https://www.youtube.com/watch?v=G22vNvHmHQ0)
