@@ -1,9 +1,10 @@
 Here is the collection of my open-source work:
 
-**Publications/Blogs/Posters:**
-* [Understanding BigBird's Block Sparse Attention](https://huggingface.co/blog/big-bird)
-* [Optimizing adapters for NMT](https://medium.com/offnote-labs/build-a-model-which-can-translate-multiple-indian-languages-to-english-very-efficiently-reduce-55375fb0e1ea)
-* [BioBigBird: Leveraging Entire Articles for Biomedical Language Understanding](https://sites.google.com/view/rbcdsairesearchshowcases2023/posters?authuser=0#h.4hipndcyi2vz)
+**Publications:**
+* [BehaviorGPT at Work: A Foundation Model for Workforce Actions & Dynamics](https://research.unboxai.com/behaviorgpt-foundation-model-workforce.html) (_with UnboxAI_)
+* [Understanding BigBird's Block Sparse Attention](https://huggingface.co/blog/big-bird) (_with HuggingFace_)
+* [Optimizing adapters for NMT](https://medium.com/offnote-labs/build-a-model-which-can-translate-multiple-indian-languages-to-english-very-efficiently-reduce-55375fb0e1ea) (_with OffNote Labs_)
+* [BioBigBird: Leveraging Entire Articles for Biomedical Language Understanding](https://sites.google.com/view/rbcdsairesearchshowcases2023/posters?authuser=0#h.4hipndcyi2vz) (_with IIT Madras_)
 
 **Open Source Contributions to HuggingFace:**
 * [Added PyTorch `BigBird-Pegasus` to Transformers](https://github.com/huggingface/transformers/pull/10991)
