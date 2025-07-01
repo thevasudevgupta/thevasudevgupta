@@ -1,10 +1,10 @@
 Here is the collection of my open-source work:
 
 **Publications:**
-* [BehaviorGPT at Work: A Foundation Model for Workforce Actions & Dynamics](https://research.unboxai.com/behaviorgpt-foundation-model-workforce.html) (_with UnboxAI_)
-* [Understanding BigBird's Block Sparse Attention](https://huggingface.co/blog/big-bird) (_with HuggingFace_)
-* [Optimizing adapters for NMT](https://medium.com/offnote-labs/build-a-model-which-can-translate-multiple-indian-languages-to-english-very-efficiently-reduce-55375fb0e1ea) (_with OffNote Labs_)
-* [BioBigBird: Leveraging Entire Articles for Biomedical Language Understanding](https://sites.google.com/view/rbcdsairesearchshowcases2023/posters?authuser=0#h.4hipndcyi2vz) (_with IIT Madras_)
+* [“BehaviorGPT at Work: Foundation Model for Workforce Actions & Dynamics.”, Unbox AI Blog, 2025.](https://research.unboxai.com/behaviorgpt-foundation-model-workforce.html)
+* [“BioBigBird: Leveraging Entire Articles for Biomedical Language Understanding.”, IIT Madras, 2023.](https://sites.google.com/view/rbcdsairesearchshowcases2023/posters?authuser=0#h.4hipndcyi2vz)
+* [“Optimizing Adapters for Neural Machine Translation.”, OffNote Labs Blog, 2021.](https://medium.com/offnote-labs/build-a-model-which-can-translate-multiple-indian-languages-to-english-very-efficiently-reduce-55375fb0e1ea)
+* [“Understanding BigBird's Block Sparse Attention.”, Hugging Face Blog, 2021.](https://huggingface.co/blog/big-bird)
 
 **Open Source Contributions to HuggingFace:**
 * [Added PyTorch `BigBird-Pegasus` to Transformers](https://github.com/huggingface/transformers/pull/10991)
