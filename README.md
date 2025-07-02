@@ -2,6 +2,7 @@ Here is the collection of my open-source work:
 
 **Publications:**
 * [“BehaviorGPT at Work: Foundation Model for Workforce Actions & Dynamics.”, Unbox AI Blog, 2025.](https://research.unboxai.com/behaviorgpt-foundation-model-workforce.html)
+* ["A Foundation Model for Consumption, Transactions, and Actions: The Inception of BehaviorGPT.", Unbox AI Blog, 2025.](https://research.unboxai.com/foundation-model-for-consumption-transactions-and-actions.html)
 * [“BioBigBird: Leveraging Entire Articles for Biomedical Language Understanding.”, IIT Madras, 2023.](https://sites.google.com/view/rbcdsairesearchshowcases2023/posters?authuser=0#h.4hipndcyi2vz)
 * [“Optimizing Adapters for Neural Machine Translation.”, OffNote Labs Blog, 2021.](https://medium.com/offnote-labs/build-a-model-which-can-translate-multiple-indian-languages-to-english-very-efficiently-reduce-55375fb0e1ea)
 * [“Understanding BigBird's Block Sparse Attention.”, Hugging Face Blog, 2021.](https://huggingface.co/blog/big-bird)
